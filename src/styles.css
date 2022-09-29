@@ -1,0 +1,64 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+* {
+  box-sizing: border-box;
+}
+
+body, html {
+  background-color: lightgoldenrodyellow; 
+  height: 100%;  
+  margin: 0;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.m-5 {
+  margin: 5px;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.flex-grow-1 {
+  flex-grow: 1
+}
+
+.flex-grow-6 {
+  flex-grow: 6;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-6 {
+  flex: 6;
+}
+
+.border-y {
+  border-left: solid;
+  border-right: solid;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.font-times {
+	font-family: 'Times New Roman', Times, serif;
+}

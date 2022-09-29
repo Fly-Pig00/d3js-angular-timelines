@@ -1,0 +1,17 @@
+h1 {
+	text-align: center
+}
+
+.rotated {
+	writing-mode: tb-rl;
+	transform: rotate(-180deg);
+}
+
+.bottom {
+	position: absolute;
+	bottom: 40px;
+	left: 20px;
+}
+
+
+
