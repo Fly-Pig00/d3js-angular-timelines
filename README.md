@@ -1,23 +1,8 @@
-# D3.js with Angular Examples
+# D3.js with Angular
 
 This project shows how to integrate D3.js with Angular.
 
 > It was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
-
-We'll implement a few D3.js examples described in [bl.ocks.org](http://bl.ocks.org/)
-in Angular.
-
-![Examples](./resources/screenshot.png "Examples")
-
-## Examples Summary
-
-- [Line Chart 4.0](http://bl.ocks.org/mbostock/02d893e3486c70c4475f)
-- [Multi-Series Line Chart](http://bl.ocks.org/mbostock/3884955)
-- [Bar Chart](http://bl.ocks.org/mbostock/3885304)
-- [Stacked Bar Chart](https://bl.ocks.org/mbostock/3886208)
-- [Brush & Zoom](https://bl.ocks.org/mbostock/34f08d5e11952a80609169b7917d4172)
-- [Pie Chart](http://bl.ocks.org/mbostock/3887235)
-- [Donut Chart](https://bl.ocks.org/mbostock/3887193)
 
 ## Prerequisites
 
